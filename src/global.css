@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(92, 60, 19);
+}
+nav {
+  background-color: rgb(252, 240, 226);
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  margin-top: 0;
+}
+
+form {
+  text-align: center;
+  padding: 20px 20px;
+  color: white;
+}
+#container {
+  text-align: center;
+}
+#container > div {
+  font-size: 18pt;
+  padding: 20px 0;
+  text-align: center;
+  background-color: rgb(145, 136, 108);
+}
+#container > div > div {
+  font-size: 12pt;
+  text-align: left;
+  padding: 0 30%;
+  font-weight: 800;
+}
+#container > div > div > span {
+  font-weight: 300;
+}
